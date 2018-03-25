@@ -1,8 +1,30 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: #f6f6f6 url('') no-repeat  center fixed;}
+  background: #f6f6f6 url('../images/bg2.png') no-repeat   fixed;}
 
 a {
-  color: #00B7FF;
+  color: #3f1919bd;
+  font: 15px/17px  tahoma, arial, sans-serif;
+
 }
+.navbar{margin-bottom:50px;min-height:50px;}
+
+.navbar-collapse.collapse {
+background-color: rgba(255, 255, 255, 0.8);
+}
+
+.navbar-default {
+    background-color: #eeeeee0d;
+    border-color: #83323205;
+}
+
+.navbar-brand {
+      padding: 15px 35px;
+}
+
+.jumbotron{
+  background-color: rgba(255, 255, 255, 0.95);
+
+}
+.jumbotron h1{margin-bottom: 30px;}
